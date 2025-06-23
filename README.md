@@ -1,3 +1,1 @@
-Hi I'm Ulises Ylave
-This is my READ ME
-I hope u get benefits from my codes <3
+Hola soy Ulises Ylave, estudiante de ingeniería informática de la PUCP. Espero puedas encontrar beneficios de lo que codeo.
