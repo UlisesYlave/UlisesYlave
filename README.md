@@ -1,8 +1,16 @@
 # UlisesYlave :)
 Hi, I'm Ulises Ylave. I'm a computer engineering student at Pontifical Catholic University of Peru. Aspiring Junior DevOps.
+<style>
+    .tags{
+      display: flex;
+      flex-wrap: wrap;
+    }
+</style>
+<div class="tags">
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/build-profile-brightgreen?style=flat&logo=Linkedin&logoColor=white&logoSize=auto&label=Linkedin&labelColor=%23020919&color=%2300548c&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbraulioantayhua%2F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/build-follow-brightgreen?style=flat&logo=instagram&logoColor=white&logoSize=auto&label=StrokerInk&labelColor=%23020919&color=%232EA062&cacheSeconds=3600&link=https%3A%2F%2Fwww.instagram.com%2Fstrokerink%2F">
+</div>
 
 
-![Static Badge](https://img.shields.io/badge/build-profile-brightgreen?style=flat&logo=Linkedin&logoColor=white&logoSize=auto&label=Linkedin&labelColor=%23020919&color=%2300548c&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbraulioantayhua%2F)
-
-![Static Badge](https://img.shields.io/badge/build-follow-brightgreen?style=flat&logo=instagram&logoColor=white&logoSize=auto&label=StrokerInk&labelColor=%23020919&color=%232EA062&cacheSeconds=3600&link=https%3A%2F%2Fwww.instagram.com%2Fstrokerink%2F)
 
