@@ -3,7 +3,7 @@ Hi, I'm Ulises Ylave. I'm a computer engineering student at Pontifical Catholic 
 <style>
     .tags{
       display: flex;
-      flex-wrap: wrap;
+      flex-direction: row;
     }
 </style>
 <div class="tags">
