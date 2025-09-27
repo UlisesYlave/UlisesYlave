@@ -6,6 +6,7 @@ Hi, I'm Ulises Ylave. I'm a computer engineering student at Pontifical Catholic 
       flex-direction: row;
     }
 </style>
+
 <div class="tags">
   
   <img alt="Static Badge" src="https://img.shields.io/badge/build-profile-brightgreen?style=flat&logo=Linkedin&logoColor=white&logoSize=auto&label=Linkedin&labelColor=%23020919&color=%2300548c&cacheSeconds=3600&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbraulioantayhua%2F">
