@@ -1,5 +1,5 @@
 # UlisesYlave :)
-Hi, I'm Ulises Ylave. I'm a computer engineering student at Pontifical Catholic University of Peru. Aspiring Junior DevOps.
+Hi, I'm Ulises Ylave. I'm a computer engineering student at Pontifical Catholic University of Peru. Aspiring Junior DevOps. I'm currently the informatic coordinator at GIA 🚀, Grupo de Ingeniería Aeroespacial ( Aerospace Engineering Group ).
 
 <a href="https://braulioulises.vercel.app/">Braulio Antayhua Portfolio</a>
 
