@@ -14,7 +14,7 @@ I'm a computer engineering student at Pontifical Catholic University of Peru. As
 <p align="left">
   <a href="https://braulioulises.vercel.app">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ulisesylave&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=UlisesYlave&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+    <img width="49.5%" src="https://streak-stats.demolab.com?user=UlisesYlave&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 <br>
