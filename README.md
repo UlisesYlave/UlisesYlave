@@ -17,10 +17,9 @@ I'm a computer engineering student at Pontifical Catholic University of Peru. As
     <img width="49.5%" src="https://streak-stats.demolab.com?user=UlisesYlave&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-
-![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=UlisesYlavev&area=true&hide_border=true&theme=dracula)
-
-<br>
-
-
+<div align="center">
+  
+  ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=UlisesYlave&theme=dracula&column=8&no-frame=true)
+  
+</div>
 
