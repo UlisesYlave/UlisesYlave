@@ -11,15 +11,18 @@ I'm a computer engineering student at Pontifical Catholic University of Peru. As
 </div>
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://braulioulises.vercel.app">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ulisesylave&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://streak-stats.demolab.com?user=UlisesYlave&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img height="100%" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ulisesylave&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img  height="100%" width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisesylave&theme=gruvbox&hide_border=true&layout=compact" />
   </a>
+  <img width="50%" src="https://streak-stats.demolab.com?user=UlisesYlave&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
-<div align="center">
-  
-  ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=UlisesYlave&theme=dracula&column=8&no-frame=true)
-  
-</div>
 
+
+
+<div align="center">
+    
+   ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=UlisesYlave&theme=gruvbox&column=9&no-frame=true)
+    
+</div>
