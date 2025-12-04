@@ -22,21 +22,12 @@ My focus is on automation, scalable infrastructure, and solutions that merge the
 </div>
 
 <p align="center">
-  <a href="https://braulioulises.vercel.app">
-  <img height="100%" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ulisesylave&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img  height="100%" width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulisesylave&theme=gruvbox&hide_border=true&layout=compact" />
-  </a>
+<a href="https://braulioulises.vercel.app">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ulisesylave&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ulisesylave&theme=gruvbox&hide_border=true&layout=compact" />
+</a>
   <img width="50%" src="https://streak-stats.demolab.com?user=UlisesYlave&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
-
-<div align="center">
-  
-   ![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=UlisesYlave&theme=gruvbox&column=9&no-frame=true)
-
-</div>
-
 
 ## 🛠️ Technical Skills
 
