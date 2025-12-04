@@ -37,38 +37,6 @@ My focus is on automation, scalable infrastructure, and solutions that merge the
 
 </div>
 
-<div align="center">
-  
-## 🏆 Recent Events & Achievements
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>🪙 ETH Lima Hackathon 2025</h3>
-      <img alt="ethlimahackaton" src="https://github.com/user-attachments/assets/7098cbca-1f06-480e-87e4-54935ecf69ff" width="250" style="border-radius: 10px;"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" alt="Solidity">
-      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
-      <img src="https://img.shields.io/badge/Blockchain-3C3C3D?logo=ethereum&logoColor=white" alt="Blockchain">
-      <p><i>Smart contract and dApp development</i></p>
-    </td>
-    <td width="50%" align="center">
-      <h3>🛰️ LASC 6th Edition - Brazil</h3>
-      <img alt="lasc-space-challenge" src="https://github.com/user-attachments/assets/6cde4384-320b-4b83-8b98-450e4105753b" width="180" style="border-radius: 10px;"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Aerospace-0074D9?logo=rocket&logoColor=white" alt="Aerospace">
-      <img src="https://img.shields.io/badge/GIA-FF6B35?logo=github&logoColor=white" alt="GIA">
-      <img src="https://img.shields.io/badge/International_Competition-009739?logo=brazil&logoColor=white" alt="Brazil">
-      <p><i>Representing Peru in international competition</i></p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 
 ## 🛠️ Technical Skills
 
@@ -78,3 +46,7 @@ My focus is on automation, scalable infrastructure, and solutions that merge the
 **🎨 Frontend:** `React` `ASP.NET` `Bootstrap` `HTML/CSS`  
 **🤖 AI & Algorithms:** `Optimization` `R*/A* Algorithms` `Mathematical Modeling` `NASA APIs`  
 **🛰️ Aerospace:** `Orbital Mechanics` `Telemetry Systems` `Embedded Programming`
+
+<div align="center" gap="10px">
+<img alt="lasc-space-challenge" src="https://github.com/user-attachments/assets/6cde4384-320b-4b83-8b98-450e4105753b" width="180" style="border-radius: 10px;"/>
+</div>
