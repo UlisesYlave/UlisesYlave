@@ -26,7 +26,7 @@ My focus is on automation, scalable infrastructure, and solutions that merge the
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ulisesylave&show_icons=true&theme=gruvbox&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ulisesylave&theme=gruvbox&hide_border=true&layout=compact" />
 </a>
-  <img width="50%" src="https://streak-stats.demolab.com?user=UlisesYlave&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=UlisesYlave&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🛠️ Technical Skills
