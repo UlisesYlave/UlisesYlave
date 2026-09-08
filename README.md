@@ -38,5 +38,8 @@ My focus is on automation, scalable infrastructure, and solutions that merge the
 **🛰️ Aerospace:** `Orbital Mechanics` `Telemetry Systems` `Embedded Programming`
 
 <div align="center" gap="10px">
-<img alt="lasc-space-challenge" src="https://github.com/user-attachments/assets/6cde4384-320b-4b83-8b98-450e4105753b" width="180" style="border-radius: 10px;"/>
+<img alt="lasc-space-challenge" src="https://github.com/user-attachments/assets/6cde4384-320b-4b83-8b98-450e4105753b" height="180" style="border-radius: 10px;"/>
+<img height="200" alt="lasc2026" src="https://github.com/user-attachments/assets/c62c46f2-1e1e-4301-bae9-a9470c262ad0" />
+
+
 </div>
